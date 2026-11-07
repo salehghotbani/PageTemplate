@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>PageTemplate</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Tahoma, sans-serif;
+      }
+
+      .initial-app-shell {
+        display: grid;
+        min-height: 100dvh;
+        place-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <div class="initial-app-shell" role="status">در حال بارگذاری…</div>
+    </div>
+    <script type="module" src="/src/bootstrap.ts"></script>
+  </body>
+</html>

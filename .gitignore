@@ -1,0 +1,58 @@
+# Dependencies and package-manager stores
+node_modules/
+.pnpm-store/
+
+# Build output and tool caches
+/build/
+/dist/
+/dist-ssr/
+/dev-dist/
+.vite/
+.cache/
+*.tsbuildinfo
+stats.html
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local HTTPS and signing secrets
+certs/*.key
+certs/privkey.pem
+*.jks
+*.keystore
+*.p12
+*.pfx
+key.properties
+keystore.properties
+
+# Test and coverage output
+/coverage/
+/playwright-report/
+/test-results/
+/blob-report/
+/.nyc_output/
+
+# Local environment overrides
+.env
+.env.*
+!.env.example
+*.local

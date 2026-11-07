@@ -1,0 +1,35 @@
+[
+  {
+    "id": "layout",
+    "title": {
+      "fa": "ساختار صفحه‌ها",
+      "en": "Page structure"
+    },
+    "description": {
+      "fa": "مسیرها در روتر تعریف می‌شوند و هر صفحه پوشهٔ خودش را دارد.",
+      "en": "The router defines the routes, and each page has its own folder."
+    }
+  },
+  {
+    "id": "theme",
+    "title": {
+      "fa": "پوستهٔ روشن و تاریک",
+      "en": "Light and dark themes"
+    },
+    "description": {
+      "fa": "اجزای مشترک از توکن‌های رنگی تم استفاده می‌کنند.",
+      "en": "Shared components use the theme’s color tokens."
+    }
+  },
+  {
+    "id": "forms",
+    "title": {
+      "fa": "فرم‌ها و اعتبارسنجی",
+      "en": "Forms and validation"
+    },
+    "description": {
+      "fa": "فرم نمونه عبارت جست‌وجو را اعتبارسنجی می‌کند و در URL نگه می‌دارد.",
+      "en": "The example form validates the search text and stores it in the URL."
+    }
+  }
+]

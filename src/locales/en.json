@@ -1,0 +1,42 @@
+{
+  "common": {
+    "loading": "Loading…",
+    "close": "Close",
+    "retry": "Try again",
+    "pageError": "This page could not load",
+    "pageErrorDescription": "Try again or return to the home page."
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "example": "Example",
+    "skip": "Skip to main content"
+  },
+  "accessibility": {
+    "lightMode": "Switch to light mode",
+    "darkMode": "Switch to dark mode"
+  },
+  "language": {
+    "switch": "Switch to Persian",
+    "next": "فارسی"
+  },
+  "home": {
+    "title": "Project starter",
+    "description": "A React template for building Persian and English pages with shared components and light and dark themes.",
+    "openExample": "Open example page"
+  },
+  "example": {
+    "title": "Example list",
+    "description": "Search this list to try the form, data loading, and URL filters.",
+    "query": "Search the list",
+    "search": "Search",
+    "clear": "Clear",
+    "queryTooLong": "Enter up to 80 characters.",
+    "error": "The list could not load.",
+    "empty": "No items found."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "Check the address or return to the home page."
+  }
+}
