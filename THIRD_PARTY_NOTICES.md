@@ -1,6 +1,6 @@
 # Third-party notices
 
-The original application code retains its proprietary [license](./LICENSE).
+The PageTemplate application code is distributed under the [MIT License](./LICENSE).
 The bundled Shabnam fonts are distributed under the [SIL Open Font License](./src/project_assets/fonts/OFL.txt).
 The [upstream font project](https://github.com/rastikerdar/shabnam-font)
 provides the copyright and licensing terms.
